@@ -5,3 +5,5 @@ npm create vite@latest<br>
 cd repo_name<br>
 npm install<br>
 npm run dev<br>
+(npm uninstall dep_name) <br>
+(npm install standard -D, para separar dependencias del dev con las realmente necesarias) <br>
