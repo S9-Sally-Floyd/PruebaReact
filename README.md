@@ -1,8 +1,7 @@
 # PruebaReact
-¿Como ejecutar una aplicacion React + Vite?
-
-npm init -y\n
-npm create vite@latest\n
-cd repo_name
-npm install
-npm run dev
+<h3>¿Como ejecutar una aplicacion React + Vite?</h3>
+npm init -y<br>
+npm create vite@latest<br>
+cd repo_name<br>
+npm install<br>
+npm run dev<br>
